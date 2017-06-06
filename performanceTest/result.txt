@@ -1,0 +1,12 @@
+3 servers, 1 client, cache size 128, fifo ------------- 4217
+3 servers, 5 client, cache size 128, fifo ------------- 5023
+5 servers, 1 client, cache size 128, fifo ------------- 4391
+5 servers, 5 client, cache size 128, fifo ------------- 7353
+3 servers, 1 client, cache size 128, lru ------------- 1989
+3 servers, 5 client, cache size 128, lru ------------- 5266
+5 servers, 1 client, cache size 128, lru ------------- 4114
+5 servers, 5 client, cache size 128, lru ------------- 6429
+3 servers, 1 client, cache size 128, lfu ------------- 1772
+3 servers, 5 client, cache size 128, lfu ------------- 4542
+5 servers, 1 client, cache size 128, lfu ------------- 3746
+5 servers, 5 client, cache size 128, lfu ------------- 6541
